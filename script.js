@@ -93,7 +93,7 @@ Array.from(document.getElementsByClassName('songItemPlay')).forEach((element) =>
             <rect x="34" y="18" width="6" height="24" fill="black"/>
         `;
       gif.style.opacity = 1;
-      e
+      
       audioElement.play();
     } else {
       masterPlay.innerHTML = `

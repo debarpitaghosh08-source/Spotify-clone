@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone
 
-A responsive **Spotify-inspired music player** built using **HTML, CSS, and Vanilla JavaScript**. This project recreates the basic UI and functionality of Spotify, allowing users to play, pause, skip tracks, and interact with a modern music player interface.
+A responsive **Spotify-inspired music player** built using **HTML, CSS, and JavaScript**. This project recreates the basic UI and functionality of Spotify, allowing users to play, pause, skip tracks, and interact with a modern music player interface.
 
 ## 🚀 Live Demo
 
